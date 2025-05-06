@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Ishwor Dhakal from <br><br>- 🔭 I’m currently a Student.<br>- 📚 I'm currently learning.<br>- ⚡ In my free time i love to play games and go gym | I handle both bytes and biceps.</p>
+<p align="left">I'm Ishwor Dhakal from Khorsane, Nepal. <br><br>- 🔭 I’m currently a Student.<br>- 📚 I'm currently learning.<br>- ⚡ In my free time i love to play games and go gym | I handle both bytes and biceps.</p>
 
 ###
 
